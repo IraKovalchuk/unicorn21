@@ -22,8 +22,16 @@
           <option name="url" value="https://github.com/alexstyl/Memento-Calendar" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/naman14/Timber?utm_source=mybridge&amp;utm_medium=email&amp;utm_campaign=read_more" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kabouzeid/Phonograph" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Iryna Kovalchuk\StudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\Iryna Kovalchuk" />
   </component>
 </application>
